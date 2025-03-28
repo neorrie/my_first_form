@@ -4,7 +4,6 @@
 }
 
 .box {
-  background-color: blue;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -16,6 +15,7 @@
 
 .header {
   padding: 30px;
+  background-color: rgb(238, 238, 238);
 }
 .formdetails {
   padding: 30px;
